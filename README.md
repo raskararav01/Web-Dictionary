@@ -30,3 +30,11 @@ A responsive, feature-rich web dictionary application that allows users to searc
 ├── index.html     # App layout and language selector UI
 ├── style.css      # Styling, layout, and responsive UI rules
 └── script.js     # API fetching, dynamic DOM rendering, and audio logic
+
+🚀 How to Run Locally
+
+Clone the repository:
+git clone [https://github.com/your-username/web-dictionary.git](https://github.com/your-username/web-dictionary.git)
+
+Open the App:
+Simply double-click index.html or open it with Live Server in VS Code to run in your browser. No extra backend installation required!
